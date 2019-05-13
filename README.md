@@ -13,3 +13,10 @@ A movie database stored in a file using serialization is processed using its own
 FORMATION OF NAME AND AGE
 
 In this program, data is converted to name, birth date, age, the program controls the accuracy of data entry.
+
+
+
+
+GENERIC ARRAYLIST
+
+Realization of generic ArrayList
